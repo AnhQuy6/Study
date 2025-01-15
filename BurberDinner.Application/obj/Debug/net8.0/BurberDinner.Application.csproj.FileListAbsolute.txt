@@ -1,0 +1,15 @@
+F:\BUBERDINNER\BurberDinner.Application\bin\Debug\net8.0\BurberDinner.Application.deps.json
+F:\BUBERDINNER\BurberDinner.Application\bin\Debug\net8.0\BurberDinner.Application.dll
+F:\BUBERDINNER\BurberDinner.Application\bin\Debug\net8.0\BurberDinner.Application.pdb
+F:\BUBERDINNER\BurberDinner.Application\bin\Debug\net8.0\BurberDinner.Domain.dll
+F:\BUBERDINNER\BurberDinner.Application\bin\Debug\net8.0\BurberDinner.Domain.pdb
+F:\BUBERDINNER\BurberDinner.Application\obj\Debug\net8.0\BurberDinner.Application.csproj.AssemblyReference.cache
+F:\BUBERDINNER\BurberDinner.Application\obj\Debug\net8.0\BurberDinner.Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\BUBERDINNER\BurberDinner.Application\obj\Debug\net8.0\BurberDinner.Application.AssemblyInfoInputs.cache
+F:\BUBERDINNER\BurberDinner.Application\obj\Debug\net8.0\BurberDinner.Application.AssemblyInfo.cs
+F:\BUBERDINNER\BurberDinner.Application\obj\Debug\net8.0\BurberDinner.Application.csproj.CoreCompileInputs.cache
+F:\BUBERDINNER\BurberDinner.Application\obj\Debug\net8.0\BurberDinner.Application.csproj.CopyComplete
+F:\BUBERDINNER\BurberDinner.Application\obj\Debug\net8.0\BurberDinner.Application.dll
+F:\BUBERDINNER\BurberDinner.Application\obj\Debug\net8.0\refint\BurberDinner.Application.dll
+F:\BUBERDINNER\BurberDinner.Application\obj\Debug\net8.0\BurberDinner.Application.pdb
+F:\BUBERDINNER\BurberDinner.Application\obj\Debug\net8.0\ref\BurberDinner.Application.dll
