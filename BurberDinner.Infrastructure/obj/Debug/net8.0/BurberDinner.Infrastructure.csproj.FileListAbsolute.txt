@@ -15,3 +15,4 @@ F:\BUBERDINNER\BurberDinner.Infrastructure\obj\Debug\net8.0\BurberDinner.Infrast
 F:\BUBERDINNER\BurberDinner.Infrastructure\obj\Debug\net8.0\refint\BurberDinner.Infrastructure.dll
 F:\BUBERDINNER\BurberDinner.Infrastructure\obj\Debug\net8.0\BurberDinner.Infrastructure.pdb
 F:\BUBERDINNER\BurberDinner.Infrastructure\obj\Debug\net8.0\ref\BurberDinner.Infrastructure.dll
+F:\BUBERDINNER\BurberDinner.Infrastructure\obj\Debug\net8.0\BurberDinner.Infrastructure.sourcelink.json

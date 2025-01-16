@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "XgSDApcWqjg+DqxoMZ1CsengrHBS/kmG28g2Cm+vUCxcj6gQZaowC6aOurDvukS+HyhUZsqnyxnUMr694KgPQQ==",
+  "dgSpecHash": "SHTfx5+8u7bRAqtTP+8OlFSk54N6MzflOx47FuBNDY3SKqxM9nmFALt/MLxk+lSW1V5hRc+n9uWly30+NW+enA==",
   "success": true,
   "projectFilePath": "F:\\BUBERDINNER\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\FPTSHOP\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.1\\microsoft.extensions.dependencyinjection.abstractions.9.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -38,3 +38,5 @@ F:\BUBERDINNER\BuberDinner.Api\obj\Debug\net8.0\refint\BuberDinner.Api.dll
 F:\BUBERDINNER\BuberDinner.Api\obj\Debug\net8.0\BuberDinner.Api.pdb
 F:\BUBERDINNER\BuberDinner.Api\obj\Debug\net8.0\BuberDinner.Api.genruntimeconfig.cache
 F:\BUBERDINNER\BuberDinner.Api\obj\Debug\net8.0\ref\BuberDinner.Api.dll
+F:\BUBERDINNER\BuberDinner.Api\obj\Debug\net8.0\BuberDinner.Api.sourcelink.json
+F:\BUBERDINNER\BuberDinner.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll

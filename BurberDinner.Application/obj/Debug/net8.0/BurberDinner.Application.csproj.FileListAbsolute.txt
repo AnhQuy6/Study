@@ -13,3 +13,4 @@ F:\BUBERDINNER\BurberDinner.Application\obj\Debug\net8.0\BurberDinner.Applicatio
 F:\BUBERDINNER\BurberDinner.Application\obj\Debug\net8.0\refint\BurberDinner.Application.dll
 F:\BUBERDINNER\BurberDinner.Application\obj\Debug\net8.0\BurberDinner.Application.pdb
 F:\BUBERDINNER\BurberDinner.Application\obj\Debug\net8.0\ref\BurberDinner.Application.dll
+F:\BUBERDINNER\BurberDinner.Application\obj\Debug\net8.0\BurberDinner.Application.sourcelink.json

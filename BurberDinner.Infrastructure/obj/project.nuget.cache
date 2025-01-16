@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "whBieqavk3pw0o5Z7SmR/OlqT1BfU16RJFgTsdJ7nbCaQloBxaFZmvVAXrTeCdEuGhfH4hPHX1oCidhPXdojqA==",
+  "dgSpecHash": "o5rjYFgwJ8MqjU+EpR6mB/MurCAGfr+egNRiiGQpqFr9GAiib3sOcBRqqDzbD9GlNhUIQznBQFyrG8cZXZIw/g==",
   "success": true,
   "projectFilePath": "F:\\BUBERDINNER\\BurberDinner.Infrastructure\\BurberDinner.Infrastructure.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\FPTSHOP\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.1\\microsoft.extensions.dependencyinjection.abstractions.9.0.1.nupkg.sha512",
+    "C:\\Users\\FPTSHOP\\.nuget\\packages\\microsoft.identitymodel.abstractions\\8.3.0\\microsoft.identitymodel.abstractions.8.3.0.nupkg.sha512",
+    "C:\\Users\\FPTSHOP\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\8.3.0\\microsoft.identitymodel.jsonwebtokens.8.3.0.nupkg.sha512",
+    "C:\\Users\\FPTSHOP\\.nuget\\packages\\microsoft.identitymodel.logging\\8.3.0\\microsoft.identitymodel.logging.8.3.0.nupkg.sha512",
+    "C:\\Users\\FPTSHOP\\.nuget\\packages\\microsoft.identitymodel.tokens\\8.3.0\\microsoft.identitymodel.tokens.8.3.0.nupkg.sha512",
+    "C:\\Users\\FPTSHOP\\.nuget\\packages\\system.identitymodel.tokens.jwt\\8.3.0\\system.identitymodel.tokens.jwt.8.3.0.nupkg.sha512"
+  ],
   "logs": []
 }
